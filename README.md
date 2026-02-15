@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Manasa
 
-<!--
-**jmanasareddy12/jmanasareddy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AIML Student | Flask Developer | AI Learner  
+🚀 Building projects with Flask, Python, and databases  
+📚 Preparing for GATE DA  
 
-Here are some ideas to get you started:
+## 🚀 Expertise
+- Backend development with Flask
+- Database design (MySQL)
+- Python projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+Python | Flask | MySQL | HTML | CSS | Git
+
+## 🚀 Current Projects
+- Space Mission Archive System (DBMS + Flask)
+- AI-based document analysis project
+- Student Management System (Django)
+
+## 🧠 Learning Now
+- Data Structures & Algorithms
+- Machine Learning basics
+- Backend architecture
+
+## 📚 Learning Journey
+- 🌱 Improving Python & Flask backend skills
+- 🧩 Solving DSA problems regularly
+- 🤖 Exploring AI/ML workflows
+
+## 🌐 Socials
+[LinkedIn](your-link)
