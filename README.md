@@ -28,4 +28,4 @@ Python | Flask | MySQL | HTML | CSS | Git
 - 🤖 Exploring AI/ML workflows
 
 ## 🌐 Socials
-[LinkedIn](your-link)
+[LinkedIn]((https://www.linkedin.com/in/j-manasa-reddy/))
