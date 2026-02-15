@@ -17,13 +17,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-## 🚀 Current Projects
-- Space Mission Archive System (DBMS + Flask)
-- AI-based document analysis project
-- Student Management System (Django)
-
 ## 🧠 Learning Now
 - Data Structures & Algorithms
 - Machine Learning basics
