@@ -11,7 +11,7 @@
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/:badgeContent)
-![HTML](https://img.shields.io/badge/:badgeContent)
+
 
 
 ## 🚀 Current Projects
