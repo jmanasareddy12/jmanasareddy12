@@ -10,9 +10,7 @@
 - Python projects
 
 ## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/:badgeContent)
-
-
+![Python](https://img.shields.io/badge/dynamic/json)
 
 ## 🚀 Current Projects
 - Space Mission Archive System (DBMS + Flask)
