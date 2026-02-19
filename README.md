@@ -32,3 +32,4 @@
 
 ## 🌐 Socials
 [LinkedIn](https://www.linkedin.com/in/j-manasa-reddy/)
+[Leetcode](https://leetcode.com/u/jmr12/)
