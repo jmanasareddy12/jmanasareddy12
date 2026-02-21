@@ -2,7 +2,6 @@
 
 💻 AIML Student | Flask Developer | AI Learner  
 🚀 Building projects with Flask, Python, and databases  
-📚 Preparing for GATE DA  
 
 ## 🚀 Expertise
 - Backend development with Flask
